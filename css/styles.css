@@ -97,7 +97,7 @@ section {
     background-color: #fff;
     display: block;
     float: left;
-    font-size: 1.5rem; /* equivalente a 15px */ 
+    font-size: 1.5rem; 
     padding: 20px;
     width: 100%;
 }
@@ -167,9 +167,3 @@ footer small {
         padding-right: 1%;
     }
 }
-Rodapé
-© 2022 GitHub, Inc.
-Navegação no rodapé
-Termos
-Privacidade
-Seguran
